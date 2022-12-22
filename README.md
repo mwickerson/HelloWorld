@@ -1,4 +1,4 @@
-# HelloWorld
+# Michael Wickerson
 
 ![headshot](Capture4.JPG)
 
