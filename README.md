@@ -16,4 +16,8 @@ Recognized as an accomplished Python developer, Wickerson's creative research in
 
 Metal Casting Foundry, Rhino 3D Digital Modeling, Grasshopper Node Programming, Python Script Development, Creative Coding for Augmented Reality, Interests in Creative Robotics and Machine Learning
 
+# Special Interests
+
+# Rhino3D | Grasshopper | Python | C# | VR in Unity
+
 mwickerson/LearningGrasshopper
