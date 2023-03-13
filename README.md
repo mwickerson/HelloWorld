@@ -4,6 +4,21 @@
 
 ![headshot](Capture4.JPG)
 
+***TOP 5 BUNDLES SOLD*** AS OF 3/13/2023
+MOST SOLD Bundles for Learning Grasshopper (Intermediate/Advanced)
+1. Complete Grasshopper (Off the Shelf)
+https://wickersonstudios.com/b/3Hq8T
+2. 300+ Math | Sets | Vectors in Grasshopper
+https://wickersonstudios.com/b/cnN8r
+3. Automate Grasshopper with Hops
+https://wickersonstudios.com/b/Hs6Ow
+4. ALGORITHMS for Dummies INTO GRASSHOPPER FOR RHINO3D
+https://wickersonstudios.com/b/g5IxW
+5. Mathematica Meets Grasshopper
+https://wickersonstudios.com/b/AHYC6
+#design #data #machinelearning #creative #learning #geometry #algorithms 
+https://www.wickersonstudios.com
+
 CEO and Co-founder at Wickerson Studios and former Chair of Sculpture at Kansas City Art Institute
 foundry man,
 parametric modeler,
